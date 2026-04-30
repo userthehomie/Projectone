@@ -226,7 +226,7 @@ header option {
 .cards {
     height: 50%;
     width: 95%;
-    margin: -5rem auto 0 auto;
+    margin: auto;
     gap: 10px;
     display: grid;
     grid-template-columns: repeat(2, auto);
